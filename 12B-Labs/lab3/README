@@ -1,0 +1,14 @@
+Navjot Heer
+Cruz ID: nsheer
+Lab 3
+README
+
+Files Submitted: 
+
+Makefile - A simple Makefile using macros to automate compilation. 
+
+FileReverse.c - This program will take two command line arguments naming the input
+and output files respectively. The program will read each word in the input file, 
+then print it backwards on a line by itself.
+
+README - A README file listing the files being submitted and a short description of each file. 

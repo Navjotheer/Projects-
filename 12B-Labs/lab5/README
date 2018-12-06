@@ -1,0 +1,18 @@
+Navjot Heer
+Cruz ID: nsheer
+Lab 5
+README
+
+
+Makefile - Makefile for ADT Dictionary.c and it's client DictionaryClient.c
+
+README - A README file listing the files being submitted and a short description of each file. 
+
+Dictionary.c - This program defines the Dictionary class and explicitly implements 
+the interface.
+
+DictionaryClient.c - Client module for testing Dictionary ADT.
+
+Dictionary. h - Header file for the Dictionary ADT.
+
+DictionaryTest.c - This program tests all of the ADT operations. 

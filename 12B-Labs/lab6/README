@@ -1,0 +1,12 @@
+Navjot Heer
+Cruz ID: nsheer
+lab6
+README
+
+README - A README file listing the files being submitted and a short description of each file.
+
+Makefile - Makefile for List ADT.
+
+List.java - Linked List implementation of the List ADT.
+
+ListTest.java - A test client for the List ADT. 

@@ -1,0 +1,14 @@
+Navjot Heer
+Cruz ID: nsheer
+Lab 4
+README
+
+Files Submitted: 
+
+Makefile - A simple Makefile for lab4
+
+README - A README file listing the files being submitted and a short description of each file. 
+
+charType.c - A program that will take an input file, read it, and print out 
+what line alpahbetic characters, digits, punctuation and whitespace were found on 
+into an output file. 
